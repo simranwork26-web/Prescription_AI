@@ -1,0 +1,5 @@
+easyocr
+transformers
+torch
+pillow
+pandas
