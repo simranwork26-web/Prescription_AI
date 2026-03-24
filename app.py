@@ -76,11 +76,69 @@ def extract_text(image):
 # -------------------------------
 
 priority_medicines = [
+    # Psychiatric / Neuro (your current domain)
     "sizodon plus",
+    "sizodon",
     "ativan",
     "rivotril",
+    "clonazepam",
     "sertraline",
-    "quetiapine"
+    "quetiapine",
+    "olanzapine",
+    "risperidone",
+    "escitalopram",
+    "fluoxetine",
+    "paroxetine",
+    "venlafaxine",
+    "duloxetine",
+
+    # Common general medicines
+    "paracetamol",
+    "crocin",
+    "calpol",
+    "dolo",
+    "ibuprofen",
+    "combiflam",
+    "aspirin",
+
+    # Antibiotics
+    "amoxicillin",
+    "azithromycin",
+    "ciprofloxacin",
+    "cefixime",
+    "doxycycline",
+
+    # Gastro / acidity
+    "pantoprazole",
+    "omeprazole",
+    "ranitidine",
+    "esomeprazole",
+
+    # Diabetes
+    "metformin",
+    "glimepiride",
+    "insulin",
+
+    # Blood pressure
+    "amlodipine",
+    "losartan",
+    "telmisartan",
+    "atenolol",
+    "metoprolol",
+
+    # Vitamins / supplements
+    "becosules",
+    "neurobion",
+    "vitamin d",
+    "calcium",
+
+    # Others commonly seen
+    "montair fx",
+    "levocetirizine",
+    "cetirizine",
+    "ondansetron",
+    "domperidone",
+    "rabeprazole"
 ]
 
 # -------------------------------
