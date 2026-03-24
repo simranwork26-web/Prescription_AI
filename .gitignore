@@ -1,0 +1,4 @@
+dataset/
+trocr_model/
+.env
+__pycache__/
