@@ -2,3 +2,5 @@ dataset/
 trocr_model/
 .env
 __pycache__/
+.DS_Store
+.idea/
